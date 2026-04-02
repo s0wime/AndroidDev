@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Users/vitalii/AppData/Local/Programs/Python/Python313/python.exe:*)",
+      "Bash(./gradlew assembleDebug:*)"
+    ]
+  }
+}
